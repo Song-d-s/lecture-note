@@ -1,5 +1,5 @@
-# Created by https://www.toptal.com/developers/gitignore/api/pycharm,jupyternotebooks,python,visualstudiocode
-# Edit at https://www.toptal.com/developers/gitignore?templates=pycharm,jupyternotebooks,python,visualstudiocode
+# Created by https://www.toptal.com/developers/gitignore/api/windows,pycharm,python,visualstudiocode,jupyternotebooks
+# Edit at https://www.toptal.com/developers/gitignore?templates=windows,pycharm,python,visualstudiocode,jupyternotebooks
 
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
@@ -312,4 +312,30 @@ cython_debug/
 # Ignore code-workspaces
 *.code-workspace
 
-# End of https://www.toptal.com/developers/gitignore/api/pycharm,jupyternotebooks,python,visualstudiocode
+### Windows ###
+# Windows thumbnail cache files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+
+# Dump file
+*.stackdump
+
+# Folder config file
+[Dd]esktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# End of https://www.toptal.com/developers/gitignore/api/windows,pycharm,python,visualstudiocode,jupyternotebooks
