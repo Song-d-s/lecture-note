@@ -309,7 +309,7 @@
               dfs(w)
   ```
 
-- 교수님 코드 - append 사용
+- append 사용 예시
   
   ```python
   # 1
