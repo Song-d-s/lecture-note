@@ -5,9 +5,9 @@
 ```python
 arr = [99,3,4,66,2,4,5,999,130,50,20,0,3]
 N = len(arr)
-for i in range(N-1, 0, -1):
+for i in range(N-1, 0, -1):     # 정렬될 구간의 끝.
     for j in range(i):
-        if arr[j]>arr[j+1]:
+        if arr[j]>arr[j+1]:     # 왼쪽 원소가 더 크면 오른쪽 원소와 교환.
             arr[j], arr[j+1] = arr[j+1], arr[j]
 print(arr)
 ```
