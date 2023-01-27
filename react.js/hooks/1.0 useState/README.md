@@ -1,4 +1,4 @@
-#1 USESTATE
+# 1 USESTATE
 
 - [x] 1.0 Introduction to useState (08:03)
 - [x] 1.1 useInput (04:47)
