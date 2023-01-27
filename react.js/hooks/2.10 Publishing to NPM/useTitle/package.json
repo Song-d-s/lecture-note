@@ -1,0 +1,25 @@
+{
+  "name": "@nooks/use-title",
+  "version": "1.0.0",
+  "description": "React Hook to update your document's title",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Song-d-s/lecture-note.git#main"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "title"
+  ],
+  "author": "s2770853",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Song-d-s/lecture-note/issues"
+  },
+  "homepage": "https://github.com/Song-d-s/lecture-note/tree/main#readme",
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
