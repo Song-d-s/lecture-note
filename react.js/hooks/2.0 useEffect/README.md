@@ -7,7 +7,7 @@
 - [x] 2.4 useBeforeLeave (06:22)
 - [x] 2.5 useFadeIn & useNetwork (12:20)
 - [x] 2.6 useScroll & useFullscreen (12:37)
-- [ ] 2.7 useNotification (07:35)
+- [x] 2.7 useNotification (07:35)
 - [ ] 2.8 useAxios (12:01)
 - [ ] 2.9 Conclusions (02:02)
 - [ ] 2.10 Publishing to NPM (08:45)
